@@ -1,0 +1,212 @@
+body {
+    background: #f2f0db;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 1200px;
+    font-family: sans-serif;
+    color: #fff;
+    background-image: url(images/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    image-orientation: center;
+    text-align: center;
+    float:inherit;
+}
+.main{
+    background: url(images/mainbg.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bake{
+    background: url(images/oven.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color:#E87568;
+    text-align: center;
+    font-family: 'Indie Flower';
+    font-size: 50px;
+    float:inherit;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    text-shadow: 5px 0px 6px rgba(0,0,0,.75);
+    }
+.play {background: pink;
+    vertical-align: middle;
+    line-height: 500px;
+    width: auto;
+    font-size: 35px;
+    padding-left: 19px;
+    padding-right: 12px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10%;
+    font-family: 'Pangolin', serif;
+    color: lightpink;
+    box-shadow: -9px 5px 2px rgba(181, 67, 84, 0.38);
+    
+}
+.info {background: pink;
+    text-align: center;
+    vertical-align:middle;
+    line-height: 400px;
+    width: auto;
+    font-size: 35px;
+    margin-left: 4in;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10%;
+    font-family:'Pangolin', serif;
+    color: lightpink;
+    box-shadow: -9px 5px 2px rgba(181, 67, 84, 0.38);
+}
+.textbox {margin-top: 5.7in;
+    float: bottom;
+    background: pink;
+    padding: inherit;
+    float: fixed;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-bottom: 100px;
+    padding-top: 10px;
+    border: dotted white 5px;
+    font-family:'Pangolin', serif;
+    font-size: 7mm;
+    opacity:88%;
+    text-align: left;
+    float:inherit;
+    
+}
+.textbox2 {
+    background: none;
+    padding: inherit;
+    float: fixed;
+    padding-left: 7cm;
+    padding-right: 7cm;
+    padding-bottom: 9cm;
+    padding-top: 7cm;
+    font-family:'Pangolin', serif;
+    font-size: 20mm;
+    text-align: middle;
+}
+.textbox3 {
+    background: none;
+    padding: inherit;
+    float: fixed;
+    padding-left: 7cm;
+    padding-right: 7cm;
+    padding-bottom: 9cm;
+    padding-top: 13.2cm;
+    font-family:'Pangolin', serif;
+    font-size: 20mm;
+    text-align: middle;
+}
+.options {
+    margin: 5mm;
+    background: pink;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: dotted white 5px;
+    font-family:'Pangolin', serif;
+    font-size: 7mm;
+    opacity:78%;
+    display:inline-block;
+}
+.option2{
+    margin: 5mm;
+    margin-top: 1.5in;
+    background: pink;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: dotted white 5px;
+    font-family:'Pangolin', serif;
+    font-size: 7mm;
+    opacity:78%;
+    display:inline-block;
+}
+
+a:link {color:white;
+    text-decoration: none;}
+
+a:visited {color:white;
+text-decoration: none;}
+
+a:hover {color:white;
+text-decoration: none;}
+
+a:active {color: white;
+text-decoration: none;}
+
+h3 {
+    font-size: 50px;
+    margin-top: auto;
+    float:inherit;
+    font-family: 'Pangolin';
+}
+h4 {
+    font-size: 40px;
+    float: inherit;
+    font-family: 'Pangolin';
+    
+}
+
+p {
+    font-family: 'Pangolin';
+    font-size: 30px;
+    padding-top: 1in;
+    
+}
+
+.pic{
+    float: auto;
+    position: absolute;
+    left: 90px;
+    top: 0;
+   
+}
+.pic2{
+    float: auto;
+    position: absolute;
+    right: 1px;
+    bottom: 6px;
+   
+}
+.start {
+    position: absolute;
+    background: pink;
+    font-size: 35px;
+    margin-left: 7.7in;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10%;
+    font-family:'Pangolin', serif;
+    color: lightpink;
+    box-shadow: -9px 5px 2px rgba(181, 67, 84, 0.38);
+    
+}
+.back {
+    position: absolute;
+    background: pink;
+    font-size: 35px;
+    margin-left: 10mm;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10%;
+    font-family:'Pangolin', serif;
+    color: lightpink;
+    box-shadow: -9px 5px 2px rgba(181, 67, 84, 0.38);
+    
+}
+
+
